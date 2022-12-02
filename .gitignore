@@ -1,0 +1,15 @@
+.DS_Store
+dist
+.next
+.env
+.env.local
+.env.build
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+report.*
+.eslintcache
+.vercel
+
+.vercel
+node_modules
