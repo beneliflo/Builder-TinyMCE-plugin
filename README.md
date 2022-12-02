@@ -2,7 +2,8 @@
 
 TinyMCE plugin for Builder.io
 
-Adding your plugin in Builder
+## Adding your plugin in Builder
+
 1. Go to Account Settings.
 2. Click on the Pencil icon to the right of Plugins to edit your plugins.
 3. Click the Add Plugin button.
