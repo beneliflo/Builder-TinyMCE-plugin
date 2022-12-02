@@ -42,15 +42,16 @@ function TinyEditor(props) {
             'media',
             'table',
             'code',
+            'codesample',
             'help',
             'wordcount'
           ],
           toolbar:
             'undo redo | blocks | ' +
-            'bold italic forecolor | alignleft aligncenter alignright alignjustify | code | ' +
+            'bold italic forecolor | alignleft aligncenter alignright alignjustify | codesample | ' +
             'link image media | table mergetags | ' +
             'checklist bullist numlist outdent indent | ' +
-            'removeformat | help',
+            'removeformat | code | help',
           content_style: 'body { font-family:Helvetica,Arial,sans-serif; font-size:14px }'
         }}
       />

@@ -1,6 +1,6 @@
 {
   "name": "@builder.io/plugin-tinymce",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "entry": "plugin",
   "output": "plugin.system.js",
