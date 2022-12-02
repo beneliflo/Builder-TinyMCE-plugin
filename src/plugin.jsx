@@ -47,7 +47,7 @@ function TinyEditor(props) {
           ],
           toolbar:
             'undo redo | blocks | ' +
-            'bold italic forecolor | alignleft aligncenter | ' +
+            'bold italic forecolor | alignleft aligncenter | code | ' +
             'link image media | table mergetags | ' +
             'alignright alignjustify | checklist bullist numlist outdent indent | ' +
             'removeformat | help',
