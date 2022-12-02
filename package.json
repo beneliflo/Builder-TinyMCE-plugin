@@ -1,5 +1,5 @@
 {
-  "name": "tinymce-plugin",
+  "name": "@builder.io/plugin-tinymce",
   "version": "1.0.0",
   "description": "",
   "entry": "plugin",
