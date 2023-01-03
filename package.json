@@ -1,6 +1,6 @@
 {
   "name": "@builder.io/plugin-tinymce",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "entry": "plugin",
   "output": "plugin.system.js",
@@ -28,6 +28,9 @@
   },
   "dependencies": {
     "@tinymce/tinymce-react": "^4.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-markdown": "^8.0.4",
