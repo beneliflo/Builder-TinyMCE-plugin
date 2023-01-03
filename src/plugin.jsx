@@ -49,7 +49,6 @@ function TinyEditor(props) {
             'editimage',
             'lists'
           ],
-          tinydrive_token_provider: '/jwt',
           toolbar:
             'undo redo | blocks | ' +
             'bold italic forecolor | alignleft aligncenter alignright alignjustify | codesample | ' +
