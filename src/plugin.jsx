@@ -23,7 +23,7 @@ function TinyEditor(props) {
         value={props.value}
         onEditorChange={props.onChange}
         init={{
-          height: 500,
+          height: 1000,
           menubar: false,
           plugins: [
             'advlist',
@@ -49,7 +49,7 @@ function TinyEditor(props) {
             'editimage',
             'lists'
           ],
-          // tinydrive_token_provider: '/jwt/app.js',
+          tinydrive_token_provider: 'https://scale.com/api/jwt',
           toolbar:
             'undo redo | blocks | ' +
             'bold italic forecolor | alignleft aligncenter alignright alignjustify | codesample | ' +
